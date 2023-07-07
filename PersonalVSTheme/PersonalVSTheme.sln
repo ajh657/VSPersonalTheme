@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalVSTheme", "PersonalVSTheme.csproj", "{BCEA957B-369F-47EF-B336-D3BA78FA6C01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|arm64 = Debug|arm64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|arm64 = Release|arm64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCEA957B-369F-47EF-B336-D3BA78FA6C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCEA957B-369F-47EF-B336-D3BA78FA6C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCEA957B-369F-47EF-B336-D3BA78FA6C01}.Debug|arm64.ActiveCfg = Debug|arm64
+		{BCEA957B-369F-47EF-B336-D3BA78FA6C01}.Debug|arm64.Build.0 = Debug|arm64
+		{BCEA957B-369F-47EF-B336-D3BA78FA6C01}.Debug|x86.ActiveCfg = Debug|x86
+		{BCEA957B-369F-47EF-B336-D3BA78FA6C01}.Debug|x86.Build.0 = Debug|x86
+		{BCEA957B-369F-47EF-B336-D3BA78FA6C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCEA957B-369F-47EF-B336-D3BA78FA6C01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCEA957B-369F-47EF-B336-D3BA78FA6C01}.Release|arm64.ActiveCfg = Release|arm64
+		{BCEA957B-369F-47EF-B336-D3BA78FA6C01}.Release|arm64.Build.0 = Release|arm64
+		{BCEA957B-369F-47EF-B336-D3BA78FA6C01}.Release|x86.ActiveCfg = Release|x86
+		{BCEA957B-369F-47EF-B336-D3BA78FA6C01}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F77AF7DF-A5EE-445D-A4CF-DE7417BDCE5C}
+	EndGlobalSection
+EndGlobal
